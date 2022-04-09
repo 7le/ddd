@@ -19,5 +19,9 @@ public class ItemServiceImpl implements ItemClientService {
         // Application Service: Define what the system should do, and call domain to complete
 
         itemService.publicItem();
+
+        //security
+
+        //xxxx
     }
 }

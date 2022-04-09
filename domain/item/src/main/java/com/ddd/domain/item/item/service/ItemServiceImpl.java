@@ -14,6 +14,9 @@ public class ItemServiceImpl implements ItemService {
     @Override
     public void publicItem() {
         //Domain Service: Orchestrating entities to achieve business.
+        //item.pub()
         publicEntityAbility.pub();
+
+        //xxxx domain
     }
 }

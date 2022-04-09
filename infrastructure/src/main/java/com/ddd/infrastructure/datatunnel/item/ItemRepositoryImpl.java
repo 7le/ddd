@@ -6,8 +6,13 @@ import org.springframework.stereotype.Service;
 @Service
 public class ItemRepositoryImpl implements ItemRepository {
 
+
     @Override
     public void saveItem() {
+        //domain->pojo
+
         //db operate
+        //cache
+        //es
     }
 }
